@@ -15,10 +15,10 @@
 
    <section class="flex">
 
-      <a href="home.php" class="logo"><img src="images\kd-8.png" alt="logo"></a>
+      <a href="index.php" class="logo"><img src="images\kd-8.png" alt="logo"></a>
 
       <nav class="navbar">
-         <a href="home.php">home</a>
+         <a href="index.php">home</a>
          <a href="shop.php">shop</a>
          <a href="orders.php">orders</a>
          <a href="about.php">about</a>
